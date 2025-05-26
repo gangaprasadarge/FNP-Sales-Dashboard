@@ -41,7 +41,7 @@ This dashboard is ideal for:
 📈 Decision-makers seeking quick, data-driven insights to support strategic planning.
 
 🖼 Dashboard Preview
-![FNP Sales Dashboard](./images/fnp-dashboard.png)
+![FNP Sales Dashboard](./fnp-dashboard.png)
 
 📌 Project Status
 ✅ Completed – Ready to showcase and use as a business analytics portfolio project.
